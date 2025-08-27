@@ -4,3 +4,5 @@ joblib
 matplotlib
 seaborn
 numpy
+flask
+gunicorn
